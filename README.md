@@ -7,4 +7,4 @@
 
 ---
 
-<img align ="left" alt = "jesssyb's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=jesssyb&show_icons=true&hide_border=true&?theme=dracula" >
+<img align ="left" alt = "jesssyb's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=jesssyb&show_icons=true&hide_border=true&theme=dracula" >
